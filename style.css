@@ -71,7 +71,7 @@ a:hover {
 }
 .wellcome {
   margin-top: 20px;
-  margin-left: 280px;
+  margin-left: 380px;
 }
 .wellcome h1 {
   font-family: monospace;
@@ -81,7 +81,7 @@ a:hover {
 .review {
   margin-top: 130px;
   font-family: monospace;
-  margin-left: 10px;
+  margin-left: 50px;
 }
 .review h3 {
   font-size: 20px;
